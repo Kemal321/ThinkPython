@@ -1,0 +1,1 @@
+Python çalışmalarım için Think Python kitabında çözdüğüm sorular.
